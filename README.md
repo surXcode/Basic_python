@@ -1,1 +1,1 @@
-# basic of python
+# basic of pythonn
